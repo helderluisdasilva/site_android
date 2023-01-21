@@ -102,6 +102,7 @@ main h2{
 main p{
     line-height: 2em;
     margin:10px 0;
+    text-indent: 10px;
 }
 
 main img{
