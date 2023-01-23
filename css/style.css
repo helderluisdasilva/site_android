@@ -63,7 +63,7 @@ nav > a{
     font-weight:bold;
     font-size:1.2em;
     text-decoration:none;
-    padding:14px;
+    padding:14px 2%;
     display:inline-block;
     transition-duration: 0.3s;
 }
